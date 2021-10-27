@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+}
+
+.container{
+    margin: 2% 2%;
+}
+
+.container p{
+    max-width: 900px;
+}
+
+.container-produtos {
+    margin-top: 40px;
+}
+
+.container-produtos p{
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
